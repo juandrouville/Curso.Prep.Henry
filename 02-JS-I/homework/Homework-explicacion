@@ -1,0 +1,14 @@
+Variables: las varaiables dentro de javascrip son cajitas donde se puede guardar informacion, dentro de la cajita va el dato, por ejemplo Juan, y por fuera podemos ponerle una etiqueta 
+para identificar que info guarde por dentro, en este caso la etiqueta de la caja es Nombre y la info guardada es Juan.
+
+Strings: Los string es un tipo de dato que podemos guaradar dentro de la cajita, este tipo de dato tiene dos caracteristicas principales, siempre se escribe entre comillas, y la otra que 
+es una cadena de carateres, donde pueden ir letras y numeros , pero siempre entre comillas 
+
+Funciones: las funcioones nos permiten con solo nombrar su eiqueta , agrupar lineas de codigos para no tener que reescribirlas muchas veces. 
+en las funciones vamos a tener valores que si cambian, esos valores son los argumentos que le marcamos a la funcion para que los identifique entre parentesis.
+La palabra return le va a indicar a la funcion que queremos un resultado , que puede mostrarlo o guardarlo.
+
+Las declaraciones if, son situaciones que se le plantea a la funcion, por ejemplo si un numero es mayor a otro , la funcion va responder a esta situacion por ejemplo 
+con verdadero o falso . Con estos datos que recibio la funcion va a fabricar una respuesta.
+
+Los datos booleanos , son datos que responden a una concion, a si pasa o no esa condicion, o si son verdadero o falso.
