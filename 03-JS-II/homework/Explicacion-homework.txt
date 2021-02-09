@@ -1,0 +1,13 @@
+For en javascrip es una funcion que nos da la posibilidad de escribir un codigo 
+muchas veces , sin tener que escribirlo nosotros, todas esas veces, de eso 
+se encarga for. For recibe tres indicaciones, la primera es como va a empezar,
+la segunda hasta cuando va a funcionar y por ultimo la cantidad de pasos 
+que va a dar.
+
+Los operadores logicos , son simbolos que nos permiten unir codigos , y
+dependiendo de cual usemos , unimos los codigos entre si de maneras 
+diferentes.Los operadores que tenemos son , && , que representa el and
+o en castellano el y, con esto unimos dos codigo que suceden juntos.
+Otro operador es || , que representa el O o en ingles Or, que une
+dos codigos que puede suceder uno o el otro.Y por ultimo tenemos el !,
+la negacion, que pide que eso no pase.
