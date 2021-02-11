@@ -1,0 +1,2 @@
+Los arrays son cajitas donde se puede guardar elementos , en forma de lista , dandonos la posibilidad de que cada elemento tenga una ubicacion a la que podemos acceder 
+de manera rapida. Accedemos a la ubicacion del elemento , mencionando el array y entre brackets [ ], el numero de posicion.
