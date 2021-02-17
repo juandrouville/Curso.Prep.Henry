@@ -1,0 +1,24 @@
+Objetos:
+Asi como los arrays son una lista de elementos, que podemos ubicarlos por su ubicacion en el array. Los objetos son una coleccion 
+de elementos que podemos ubicarlos e utilizarlos por nombre.
+
+Propiedades:
+Dentro de los objetos estan los elementos, que pueden ser strings, numeros, booleanos y funciones, a estos elementos podemos ubicarlos dentro del objeto 
+por su nombre de propiedad, por ejemplo en el objeto persona, existe una propiedad que se llama Nombre y el valor de nombre es Juan.
+Estas propiedades toman la funcion de indice como en los arrays.
+
+Metodos:
+Dentro del objeto como dije anteriormente se pueden utilizar funciones, pero cuando una funcion esta dentro de un objeto,para diferenciar, se las llama
+metodo.Este metodo se lo invocara con el nombre de objeto.
+
+Bucle for in:
+Al igual que el bucle for, este bucle nos sirve para recorrer un objeto. Como el objeto no tiene un indice numerico , no podemos usar For.
+For in toma una variable, que va a tomar el lugar de Propiedad y el valor que este guardado adentro de esa Propiedad. Y se va a repetir todas las veces 
+necesarias hasta reccorer por completo las propiedades del objeto.
+
+Notaciones:
+Son la manera de invocar el valor que tiene una propiedad dentro del objeto.
+Existen dos, notacion de puntos , donde se pone el nombre del objeto seguido de un punto y el nombre de una propiedad, esto es igual al valor de la propiedad, 
+esta manera de invocar , es la manera mas rapida , pero tenemos que conocer el nombre de propiedad.
+La otra manera es notacion de corchetes, esta es el nombre del objeto seguido de corchetes y entre comillas el nombre de la propiedad.
+Esta manera nos permite escribir en el nombre de propiedad una variable, que dentro de esa variable da como resultado el nombre literal de la propiedad.
